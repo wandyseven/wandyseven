@@ -64,7 +64,7 @@
 
 ## 🔗 Connect with me
 
-[🌐 LinkedIn](https://www.linkedin.com/in/wandy-neves/) | [📁 GitHub Projects](#)
+[🌐 LinkedIn](https://www.linkedin.com/in/wandy-neves/) 
 
 ---
 
