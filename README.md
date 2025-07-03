@@ -1,50 +1,71 @@
-# 👋 Hello, I'm Wandy – Junior Quant Developer
+# 👋 Hello, I'm Wandy – Developer, Artist & Future Quant
 
-🎯 Currently focused on becoming a professional **Quant Developer** with a robust backend and data pipeline stack.
+🎨 **Un esprit créatif dans le corps d’un développeur !** Je combine ma passion pour l’art, le design interactif et l’expérience utilisateur avec une approche rigoureuse et moderne du développement web.
 
-## 🚀 2025 Objective
-
-Become fully operational as a **Développeur Quantitatif Junior**, specialized in:
-
-`Python | FastAPI | PostgreSQL | Docker | GitHub Actions | React`
-
-✅ Following a structured 3-month intensive program focused on real-world project delivery:
-- Financial APIs
-- Tested backends
-- Dockerized environments
-- Interactive dashboards with React
+📊 **Actuellement en route vers le Quant Dev** : je me spécialise dans Python et les technologies financières pour créer des outils puissants, tout en continuant à explorer des projets web innovants et artistiques.
 
 ---
 
-## 📂 Featured Projects
+## 🖥️ Web & Artistic Projects
 
-- 🧠 **Quant API Starter**  
-  API REST for financial data using FastAPI + PostgreSQL  
-  → *coming soon*
+> `React` • `Node.js` • `Express` • `MongoDB` • `Docker` • `CI/CD` • `Three.js`
 
-- 📊 **Quant Dashboard**  
-  Minimal React frontend to visualize trading indicators  
-  → *coming soon*
+🔸 **UX immersive & UI impactante** : création d’interfaces utilisateurs intuitives, élégantes et interactives avec React, Material-UI et Three.js.
+🔸 **Clean Code addict** : structuration de projets selon l’architecture hexagonale, code testable, scalable et maintenable.
+🔸 **CI/CD & Docker enthusiast** : automatisation des pipelines et déploiement fluide.
 
 ---
 
-## 🔧 Tech Stack
+## 📈 Future Quant Developer – Roadmap 2025
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+> `Python` • `FastAPI` • `PostgreSQL` • `Docker` • `GitHub Actions` • `React`
 
----
+🎯 Prochaine étape : m’immerger dans l’univers passionnant de la finance quantitative, en me focalisant sur :
 
-## 🌍 Links
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wandy-neves)
-- 📂 GitHub Projects → See pinned repos
-- 🧠 Currently building: FastAPI backend + Docker + CI/CD + dashboard
+* 📡 Création d’APIs financières robustes (FastAPI/PostgreSQL)
+* 🧪 Backends testés, stables et dockerisés
+* 📊 Dashboards interactifs et artistiques (React)
+* ⚙️ Automatisation avancée via GitHub Actions
 
 ---
 
-> *“Clean code, solid architecture, and quant impact.”*
+## 🚀 Featured (Upcoming) Projects
+
+### 🎨 Interactive Portfolio
+
+* Expérience immersive 3D en ligne
+* Stack : React, Three.js, GSAP
+  → *Coming Soon*
+
+### 🧠 Quant API Starter
+
+* API REST spécialisée données financières
+* Stack : FastAPI, PostgreSQL
+  → *Coming Soon*
+
+### 📈 Artistic Quant Dashboard
+
+* Interface de visualisation financière artistique
+* Stack : React, Python, Chart.js
+  → *Coming Soon*
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005f73?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+
+---
+
+## 🔗 Connect with me
+
+[🌐 LinkedIn](https://www.linkedin.com/in/wandy-neves/) | [📁 GitHub Projects](#)
+
+---
+
+> *“Du code propre, une architecture solide, et une touche artistique à chaque projet.”*
