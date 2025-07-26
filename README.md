@@ -1,71 +1,68 @@
-# 👋 Hello, I'm Wandy – Developer, Artist & Future Quant
+# 👋 Hello, I'm Wandy – Creative Developer (Web & Apple Ecosystem)
 
-🎨 **Un esprit créatif dans le corps d’un développeur !** Je combine ma passion pour l’art, le design interactif et l’expérience utilisateur avec une approche rigoureuse et moderne du développement web.
+🎨 **Un développeur créatif avec une forte sensibilité visuelle et technique.**  
+Je crée des expériences interactives et immersives en alliant les technologies web modernes à l’écosystème Apple via Swift.
 
-📊 **Actuellement en route vers le Quant Dev** : je me spécialise dans Python et les technologies financières pour créer des outils puissants, tout en continuant à explorer des projets web innovants et artistiques.
-
----
-
-## 🖥️ Web & Artistic Projects
-
-> `React` • `Node.js` • `Express` • `MongoDB` • `Docker` • `CI/CD` • `Three.js`
-
-🔸 **UX immersive & UI impactante** : création d’interfaces utilisateurs intuitives, élégantes et interactives avec React, Material-UI et Three.js.
-🔸 **Clean Code addict** : structuration de projets selon l’architecture hexagonale, code testable, scalable et maintenable.
-🔸 **CI/CD & Docker enthusiast** : automatisation des pipelines et déploiement fluide.
+🍎 **Spécialisation double** :
+- **Web immersif** : React, Three.js, Node.js
+- **Développement natif Apple** : Swift (iOS, macOS, etc.)
 
 ---
 
-## 📈 Future Quant Developer – Roadmap 2025
+## 🖥️ Creative Web Development
 
-> `Python` • `FastAPI` • `PostgreSQL` • `Docker` • `GitHub Actions` • `React`
+> `React` • `Three.js` • `Node.js` • `MongoDB` • `GSAP` • `Docker`
 
-🎯 Prochaine étape : m’immerger dans l’univers passionnant de la finance quantitative, en me focalisant sur :
-
-* 📡 Création d’APIs financières robustes (FastAPI/PostgreSQL)
-* 🧪 Backends testés, stables et dockerisés
-* 📊 Dashboards interactifs et artistiques (React)
-* ⚙️ Automatisation avancée via GitHub Actions
+🔸 Interfaces visuelles animées et interactives  
+🔸 Logique backend en Node.js + APIs REST  
+🔸 Expériences en 3D (Three.js) et responsive design
 
 ---
 
-## 🚀 Featured (Upcoming) Projects
+## 🍏 Apple Development with Swift
 
-### 🎨 Interactive Portfolio
+> `Swift` • `SwiftUI` • `Xcode` • `MVVM` • `CoreData` • `REST APIs`
 
-* Expérience immersive 3D en ligne
-* Stack : React, Three.js, GSAP
-  → *Coming Soon*
+🔸 Développement d’apps pour iOS et l’écosystème Apple (macOS, watchOS…)  
+🔸 Intégration d’APIs, persistance des données, navigation fluide  
+🔸 Code propre et architecture MVVM
 
-### 🧠 Quant API Starter
+---
 
-* API REST spécialisée données financières
-* Stack : FastAPI, PostgreSQL
-  → *Coming Soon*
+## 🚀 Upcoming Projects
 
-### 📈 Artistic Quant Dashboard
+### 🎨 Immersive Portfolio  
+Site web narratif en 3D.  
+**Stack** : React, GSAP, Three.js  
+→ *Coming soon*
 
-* Interface de visualisation financière artistique
-* Stack : React, Python, Chart.js
-  → *Coming Soon*
+### 🍏 SwiftFit  
+App iOS/macOS de suivi sportif & nutrition.  
+**Stack** : SwiftUI, CoreData, REST  
+→ *En développement*
+
+### 📊 Visual Dashboard  
+Dashboard de data avec approche artistique.  
+**Stack** : React, Chart.js, Node  
+→ *Coming soon*
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-005f73?logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 ---
 
 ## 🔗 Connect with me
 
-[🌐 LinkedIn](https://www.linkedin.com/in/wandy-neves/) 
+[LinkedIn – Wandy Neves](https://www.linkedin.com/in/wandy-neves/)
 
 ---
 
-> *“Du code propre, une architecture solide, et une touche artistique à chaque projet.”*
+> *“Créer avec élégance, coder avec rigueur.”*
