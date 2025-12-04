@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Wandy – Creative Developer (Web & Apple Ecosystem)
+# 👋 Hello, I'm Wandy – Creative Developer 
 
 🎨 **Un développeur créatif avec une forte sensibilité visuelle et technique.**  
 Je crée des expériences interactives et immersives en alliant les technologies web modernes à l’écosystème Apple via Swift.
 
 🍎 **Spécialisation double** :
 - **Web immersif** : React, Three.js, Node.js
-- **Développement natif Apple** : Swift (iOS, macOS, etc.)
+
 
 ---
 
@@ -19,13 +19,6 @@ Je crée des expériences interactives et immersives en alliant les technologies
 
 ---
 
-## 🍏 Apple Development with Swift
-
-> `Swift` • `SwiftUI` • `Xcode` • `MVVM` • `CoreData` • `REST APIs`
-
-🔸 Développement d’apps pour iOS et l’écosystème Apple (macOS, watchOS…)  
-🔸 Intégration d’APIs, persistance des données, navigation fluide  
-🔸 Code propre et architecture MVVM
 
 ---
 
@@ -36,10 +29,6 @@ Site web narratif en 3D.
 **Stack** : React, GSAP, Three.js  
 → *Coming soon*
 
-### 🍏 SwiftFit  
-App iOS/macOS de suivi sportif & nutrition.  
-**Stack** : SwiftUI, CoreData, REST  
-→ *En développement*
 
 ### 📊 Visual Dashboard  
 Dashboard de data avec approche artistique.  
