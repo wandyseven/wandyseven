@@ -1,57 +1,11 @@
-# 👋 Hello, I'm Wandy – Creative Developer 
+### Hi, I’m Wandy 👋
 
-🎨 **Un développeur créatif avec une forte sensibilité visuelle et technique.**  
-Je crée des expériences interactives et immersives en alliant les technologies web modernes à l’écosystème Apple via Swift.
+I’m a creative frontend developer with a senior design background.
 
-🍎 **Spécialisation double** :
-- **Web immersif** : React, Three.js, Node.js
+I build interactive web experiences using **Next.js**, **React** and **React Three Fiber (R3F)**.  
+Before writing code, I spent several years as a **digital / visual designer**, working on branding, UI/UX and motion.
 
-
----
-
-## 🖥️ Creative Web Development
-
-> `React` • `Three.js` • `Node.js` • `MongoDB` • `GSAP` • `Docker`
-
-🔸 Interfaces visuelles animées et interactives  
-🔸 Logique backend en Node.js + APIs REST  
-🔸 Expériences en 3D (Three.js) et responsive design
-
----
-
-
----
-
-## 🚀 Upcoming Projects
-
-### 🎨 Immersive Portfolio  
-Site web narratif en 3D.  
-**Stack** : React, GSAP, Three.js  
-→ *Coming soon*
-
-
-### 📊 Visual Dashboard  
-Dashboard de data avec approche artistique.  
-**Stack** : React, Chart.js, Node  
-→ *Coming soon*
-
----
-
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-
----
-
-## 🔗 Connect with me
-
-[LinkedIn – Wandy Neves](https://www.linkedin.com/in/wandy-neves/)
-
----
-
-> *“Créer avec élégance, coder avec rigueur.”*
+- 🔭 Current focus: **3D web, creative frontends, portfolio & experimental projects**
+- 💡 Strength: I combine **design thinking** with **clean, maintainable code**
+- 🌍 Open to remote / hybrid roles and collaborations on creative web projects
+- 🎨 Tools I love: Figma, After Effects, Blender (beginner), Procreate
